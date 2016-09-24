@@ -1,0 +1,6 @@
+{
+  "name": "hyphaproject",
+  "tagline": "Hyphaproject is a framework for home automation written in c++;",
+  "body": "# Hyphaproject\r\nHyphaproject is a framework for home automation written in c++;\r\n\r\n## Subprojects\r\nThe project consists of some subprojects:\r\n\r\n### hypha\r\nHypha is the core library.\r\n\r\n### hyphamanager\r\nHyphamanager is a desktop application used to configure connected devices.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
